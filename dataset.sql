@@ -1,0 +1,22 @@
+create table dataset (id numeric,
+    gender numeric,
+    own_car numeric,
+    own_property numeric,
+    work_phone numeric,
+    phone numeric,
+    email numeric,
+    unemployed numeric,
+    num_children numeric,
+    num_family numeric,
+    account_length numeric,
+    total_income numeric,
+    age numeric,
+    years_employed numeric,
+    income_type varchar,
+    education_type varchar,
+    family_status  varchar,
+    housing_type  varchar,
+    occupation_type  varchar,
+    target numeric);
+
+select * from dataset;
