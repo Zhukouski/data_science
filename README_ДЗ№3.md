@@ -1,2 +1,2 @@
 Dataset "Credit Card Eligibility Data: Determining Factors". Ссылка: https://www.kaggle.com/datasets/rohit265/credit-card-eligibility-data-determining-factors
-Необходимо развернуть базу данных. Загрузить в нее dataset. Сделать подключение к базе данных. Просмотреть данные.
+Задание: Необходимо развернуть базу данных. Загрузить в нее dataset. Сделать подключение к базе данных. Просмотреть данные.
