@@ -1,1 +1,2 @@
+Dataset "Online Shoppers Intention UCI Machine Learning". Ссылка: https://www.kaggle.com/datasets/henrysue/online-shoppers-intention
 Задание: Загрузите набор данных о посетителях веб-сайта (например, набор данных Online Shoppers) и обучите модель классификации для предсказания, будет ли посетитель совершать покупку.
